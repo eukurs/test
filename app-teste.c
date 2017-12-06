@@ -2,7 +2,7 @@
 
 int main()
 {
-	i=0;
+	int i=0;
 	printf("Funcionou!\n");
 	return(0);
 }
